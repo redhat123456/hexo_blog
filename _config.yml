@@ -9,7 +9,7 @@ description: 专注于Web前端、PINN、技术成长路径的博客，记录学
 keywords: [Tanger, Web前端, PINN, 技术成长, 算法, 机器学习, 深度学习, 数据分析]
 author: Tanger
 language: zh-CN
-timezone: Asia/Guilin
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -102,3 +102,9 @@ theme: volantis
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# 添加 katex 插件配置
+katex:
+  enable: true
+  copy_tex: true
+  css: true
