@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tanger's Dev Blog
+title: '[百炼成钢]--加油Tanger，相信自己'
 subtitle: 分享Web前端 · PINN · 技术成长路线
 description: 专注于Web前端、PINN、技术成长路径的博客，记录学习过程与实战经验，欢迎交流！
 keywords: [Tanger, Web前端, PINN, 技术成长, 算法, 机器学习, 深度学习, 数据分析]
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://tanger.ltd
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -77,8 +77,8 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+date_format: YYYY年-MM月-DD日
+time_format: HH时:mm分:ss秒
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: volantis
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

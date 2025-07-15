@@ -1,5 +1,6 @@
 ---
 title: 桂林电子科技大学 ACM 暑假课 | 7 月 21 日 ACM 作业题解
+author: Tanger
 date: 2020-07-15 09:57:14
 tags:
   - 作业题解
