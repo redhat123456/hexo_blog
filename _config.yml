@@ -102,7 +102,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/redhat123456/redhat123456.github.io
+  repo: https://${GH_TOKEN}@github.com/redhat123456/redhat123456.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
 
