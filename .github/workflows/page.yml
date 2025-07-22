@@ -34,10 +34,12 @@ jobs:
           npm install
           npm install hexo-deployer-git --save
 
-      - name: Setup Git identity
+      - name: Setup Git identity and credentials
         run: |
           git config --global user.name "${{ secrets.GIT_USER }}"
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
+          git config --global credential.helper store
+          echo "https://${{ secrets.DEPLOY_TOKEN }}:@github.com" > ~/.git-credentials
 
       - name: Generate and Deploy
         id: deploy
