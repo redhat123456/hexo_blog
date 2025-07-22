@@ -11,11 +11,11 @@
 
 nav:
   # Navigation bar logo image
-  logo:
+  logo: false
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
-  fixed: false
+  fixed: true
 
 menu:
   # Home: / || fas fa-home
@@ -53,17 +53,17 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: https://github.com/redhat123456/pohots/blob/master/logo.icon?raw=true
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: https://github.com/redhat123456/pohots/blob/master/%E7%BB%8F%E5%85%B8%E5%A4%B4%E5%83%8F.jpg?raw=true
   effect: false
 
 # Disable all banner images
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: ./static/image/1.jpg
 
 # The banner image of index page
 index_img:
@@ -101,8 +101,16 @@ cover:
   archives_enable: true
   # When cover is not set, the default cover is displayed
   default_cover:
-    # - xxx.jpg
-
+    - https://s2.loli.net/2025/07/22/C8mD4cpNPyjrHqK.png
+    - https://s2.loli.net/2025/07/22/UjSZhlRuyDf7Beb.png
+    - https://s2.loli.net/2025/07/22/vt8iyEo4fk6YOXP.jpg
+    - https://s2.loli.net/2025/07/22/C1fXjVh2FwDArHi.png
+    - https://s2.loli.net/2025/07/22/c45g9yNPmdn1TJf.png
+    - https://s2.loli.net/2025/07/22/1rZRK5cboYHzwQ3.jpg
+    - https://s2.loli.net/2025/07/22/Yxw75CL6N1eyDGd.jpg
+    - https://s2.loli.net/2025/07/22/tF39TnYBjsWRdMh.png
+    - https://s2.loli.net/2025/07/22/yq2BdwmtZcvgQfH.png
+    - https://s2.loli.net/2025/07/22/xGWbqDXVIQFZr7s.png
 # Replace Broken Images
 error_img:
   flink: /img/friend_404.gif
