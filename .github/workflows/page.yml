@@ -1,26 +1,26 @@
-name: Pages
+name: Hexo CI Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main # 监听 main 分支
+      - main # 监听 Hexo 源码仓库的 main 分支
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           submodules: recursive
 
-      - name: Use Node.js 20
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Cache NPM dependencies
+      - name: Cache dependencies
         uses: actions/cache@v4
         with:
           path: node_modules
@@ -28,27 +28,20 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache-
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm install
 
-      - name: Build Project
-        run: npm run build
+      - name: Generate static files
+        run: npx hexo generate
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public # ⬅️ 如非 public，请修改为你的构建目录
-
-  deploy:
-    needs: build
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to redhat123456.github.io
+        env:
+          GIT_USER: ${{ secrets.GIT_USER }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+          DEPLOY_REPO: github.com/redhat123456/redhat123456.github.io.git
+          DEPLOY_BRANCH: master
+          GH_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: |
+          git config --global user.name "${GIT_USER}"
+          git config --global user.email "${GIT_EMAIL}"
+          npx hexo deploy
