@@ -63,18 +63,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/1.jpg?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/2.jpg?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/3.jpg?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/4.jpg?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/5.png?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/6.png?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/7.png?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/8.png?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/9.png?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/10.png?raw=true
-  - https://github.com/redhat123456/hexo_blog/blob/main/static/image/11.png?raw=true
+default_top_img: https://s2.loli.net/2025/07/25/tC26Ai4SB7vK8YG.jpg
 
 # The banner image of index page
 index_img:
@@ -307,7 +296,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/redhat123456
   card_announcement:
     enable: true
     content: This is my Blog
