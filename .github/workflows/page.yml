@@ -40,7 +40,10 @@ jobs:
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git config --global credential.helper store
           echo "https://${{ secrets.DEPLOY_TOKEN }}:@github.com" > ~/.git-credentials
-
+      - name: Debug current directory and files
+        run: |
+          pwd
+          ls -la
       - name: Generate and Deploy
         id: deploy
         env:
