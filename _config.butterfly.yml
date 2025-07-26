@@ -566,25 +566,21 @@ facebook_comments:
   order_by: social
   lang: en_US
 
-# Twikoo
-# https://github.com/imaegoo/twikoo
-twikoo:
-  envId:
-  region:
-  # Use Twikoo visitor count as the page view count
-  visitor: false
-  option:
-
 # Giscus
 # https://giscus.app/
 giscus:
-  repo:
-  repo_id:
-  category_id:
-  light_theme: light
-  dark_theme: dark
-  js:
-  option:
+  repo: 'redhat123456/hexo_blog' # 仓库名，格式：用户名/仓库名
+  repo_id: 'R_kgDOPHmJiA' # 仓库 ID，来自 giscus 官网配置
+  category: 'General' # Discussions 分类名称
+  category_id: 'DIC_kwDOPHmJiM4CtbXz' # 分类 ID，来自 giscus 官网配置
+  mapping: 'pathname' # 页面映射策略，推荐使用 pathname
+  strict: true # 是否开启严格匹配，避免匹配错误
+  reactions_enabled: true # 是否启用表情反应功能
+  emit_metadata: false # 是否发送元数据，通常设置为 false
+  input_position: 'bottom' # 评论框位置，可选 'top' 或 'bottom'
+  theme: 'preferred_color_scheme' # 主题风格，自动跟随系统浅/深色模式
+  lang: 'zh-CN' # 评论区语言
+  lazy_load: true # 是否懒加载评论，提升性能
 
 # Remark42
 # https://remark42.com/docs/configuration/frontend/
