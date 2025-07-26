@@ -48,4 +48,5 @@ jobs:
         run: |
           npx hexo clean
           npx hexo generate
+          echo "" > public/.nojekyll   # ✅ 关键修复
           npx hexo deploy
