@@ -3,13 +3,14 @@ name: Deploy Hexo to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main # 你写代码的主分支
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout source
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -30,18 +31,21 @@ jobs:
           npm install
           npm install hexo-deployer-git --save
 
-      - name: Setup Git identity and credentials
+      - name: Setup git config
         run: |
           git config --global user.name "${{ secrets.GIT_USER }}"
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
-          git config --global credential.helper store
-          echo "https://${{ secrets.DEPLOY_TOKEN }}:@github.com" > ~/.git-credentials
 
-      - name: Generate and Deploy
+      - name: Create .nojekyll to disable Jekyll build
+        run: echo "" > public/.nojekyll
+
+      - name: Generate and deploy
         env:
-          GH_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
+          # 配置远程仓库用token认证，格式是 https://<token>@github.com/用户名/仓库.git
+          git remote set-url origin https://x-access-token:${DEPLOY_TOKEN}@github.com/<用户名>/<仓库>.git
+
           npx hexo clean
           npx hexo generate
-          echo "" > public/.nojekyll   # 禁用 Jekyll
-          npx hexo deploy
+          npx hexo deploy --debug
