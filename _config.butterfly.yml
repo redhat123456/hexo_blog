@@ -18,6 +18,10 @@ nav:
   fixed: true
 
 menu:
+  文章: /archives/
+  分类: /categories/
+  标签: /tags/
+  友链: /links/ # 友链菜单
   # Home: / || fas fa-home
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
