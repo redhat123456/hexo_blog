@@ -530,73 +530,33 @@ share:
 # --------------------------------------
 
 comments:
-  # Up to two comments system, the first will be shown as default
-  # Leave it empty if you don't need comments
-  # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  # Format of two comments system : Disqus,Waline
-  use: Gitalk
-  # Display the comment name next to the button
+  use: Gitalk # 表示默认使用 Gitalk 评论系统，写法正确
   text: true
-  # Lazyload: The comment system will be load when comment element enters the browser's viewport.
-  # If you set it to true, the comment count will be invalid
   lazyload: false
-  # Display comment count in post's top_img
   count: false
-  # Display comment count in Home Page
   card_post_count: false
 
-# Gitalk
-# https://github.com/gitalk/gitalk
 gitalk:
   client_id: Ov23liaJK5oVpikNHAK7
   client_secret: 8d0a24487f2324d01e049e437558537486fe5388
   repo: hexo_blog
   owner: redhat123456
   admin: ['redhat123456']
-  option:
+  option: # 这里如果没有额外选项，建议删除或设为空字典 {}，否则可能解析异常
 
-# Facebook Comments Plugin
-# https://developers.facebook.com/docs/plugins/comments/
-facebook_comments:
-  app_id:
-  # optional
-  user_id:
-  pageSize: 10
-  # Choose: social / time / reverse_time
-  order_by: social
-  lang: en_US
-
-# Giscus
-# https://giscus.app/
 giscus:
-  repo: 'redhat123456/hexo_blog' # 仓库名，格式：用户名/仓库名
-  repo_id: 'R_kgDOPHmJiA' # 仓库 ID，来自 giscus 官网配置
-  category: 'General' # Discussions 分类名称
-  category_id: 'DIC_kwDOPHmJiM4CtbXz' # 分类 ID，来自 giscus 官网配置
-  mapping: 'pathname' # 页面映射策略，推荐使用 pathname
-  strict: true # 是否开启严格匹配，避免匹配错误
-  reactions_enabled: true # 是否启用表情反应功能
-  emit_metadata: false # 是否发送元数据，通常设置为 false
-  input_position: 'bottom' # 评论框位置，可选 'top' 或 'bottom'
-  theme: 'preferred_color_scheme' # 主题风格，自动跟随系统浅/深色模式
-  lang: 'zh-CN' # 评论区语言
-  lazy_load: true # 是否懒加载评论，提升性能
-
-# Remark42
-# https://remark42.com/docs/configuration/frontend/
-remark42:
-  host:
-  siteId:
-  option:
-
-# Artalk
-# https://artalk.js.org/guide/frontend/config.html
-artalk:
-  server:
-  site:
-  # Use Artalk visitor count as the page view count
-  visitor: false
-  option:
+  repo: 'redhat123456/hexo_blog'
+  repo_id: 'R_kgDOPHmJiA'
+  category: 'General'
+  category_id: 'DIC_kwDOPHmJiM4CtbXz'
+  mapping: 'pathname'
+  strict: true
+  reactions_enabled: true
+  emit_metadata: false
+  input_position: 'bottom'
+  theme: 'preferred_color_scheme'
+  lang: 'zh-CN'
+  lazy_load: true
 
 # --------------------------------------
 # Chat Services
