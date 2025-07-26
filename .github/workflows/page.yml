@@ -8,7 +8,7 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment: github-pages # 指定环境，这里会加载该环境的 secrets
+    environment: github-pages # 引用环境，自动加载环境变量
 
     steps:
       - name: Checkout repo
@@ -37,12 +37,12 @@ jobs:
           git config --global user.name "${{ secrets.GIT_USER }}"
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
 
-      - name: Create .nojekyll to disable Jekyll build
+      - name: Create .nojekyll
         run: echo "" > public/.nojekyll
 
       - name: Generate and deploy
         env:
-          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }} # secrets 会自动从 environment 加载
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
           git remote set-url origin https://x-access-token:${DEPLOY_TOKEN}@github.com/redhat123456/redhat123456.github.io.git
 
