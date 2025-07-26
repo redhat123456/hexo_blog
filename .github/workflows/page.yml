@@ -8,10 +8,6 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
@@ -42,11 +38,10 @@ jobs:
           echo "https://${{ secrets.DEPLOY_TOKEN }}:@github.com" > ~/.git-credentials
 
       - name: Generate and Deploy
-        id: deploy
         env:
           GH_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
         run: |
           npx hexo clean
           npx hexo generate
-          echo "" > public/.nojekyll   # ✅ 关键修复
+          echo "" > public/.nojekyll   # 禁用 Jekyll
           npx hexo deploy
