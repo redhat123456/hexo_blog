@@ -49,3 +49,4 @@ jobs:
           npx hexo clean
           npx hexo generate
           npx hexo deploy
+          cp CNAME public/CNAME
