@@ -44,7 +44,7 @@ jobs:
         env:
           DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }} # secrets 会自动从 environment 加载
         run: |
-          git remote set-url origin https://x-access-token:${DEPLOY_TOKEN}@github.com/<用户名>/<仓库>.git
+          git remote set-url origin https://x-access-token:${DEPLOY_TOKEN}@github.com/redhat123456/redhat123456.github.io.git
 
           npx hexo clean
           npx hexo generate
