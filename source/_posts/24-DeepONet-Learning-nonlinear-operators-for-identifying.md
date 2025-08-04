@@ -1,5 +1,5 @@
 ---
-title: 24-DeepONet_Learning_nonlinear_operators_for_identifying
+title: 【每周一论文分享】DeepONet_Learning_nonlinear_operators_for_identifying
 date: 2025-08-04 20:12:12
 tags:
   - 论文日志
