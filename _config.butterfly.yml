@@ -534,19 +534,11 @@ share:
 # --------------------------------------
 
 comments:
-  use: Gitalk # 表示默认使用 Gitalk 评论系统，写法正确
+  use: Giscus # 表示默认使用 Gitalk 评论系统，写法正确
   text: true
   lazyload: false
   count: false
   card_post_count: false
-
-gitalk:
-  client_id: Ov23liaJK5oVpikNHAK7
-  client_secret: 8d0a24487f2324d01e049e437558537486fe5388
-  repo: hexo_blog
-  owner: redhat123456
-  admin: ['redhat123456']
-  option: # 这里如果没有额外选项，建议删除或设为空字典 {}，否则可能解析异常
 
 giscus:
   repo: 'redhat123456/hexo_blog'
