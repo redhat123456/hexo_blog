@@ -177,4 +177,25 @@ categories:
 印斯茅斯小镇游戏界面（地图正上方标出了具体位置信息）
 </div>
 
+后面，我面对程序就越来越游刃有余，先模仿再学习，再做出了很多有趣的前端小 demo ，比如
+
+- **微信小程序**
+
+  - [upPhysicalExercise](https://github.com/redhat123456/upPhysicalExercise)：一款集健身锻炼、视频播放与计划制定于一体的微信小程序，支持多平台部署，并具备打卡记录、计划提醒及课程推荐等功能。![](https://badgen.net/github/stars/redhat123456/upPhysicalExercise)
+  - [Tanger_query](https://github.com/redhat123456/Tanger_query)：一款功能丰富的查询类小程序，涵盖天气预报、包裹追踪等查询功能，界面简洁且用户友好。![](https://badgen.net/github/stars/redhat123456/Tanger_query)
+
+- **Hexo 主题**
+
+* [hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo)：一款受米哈游官网风格启发的 Hexo 主题，采用渐变背景和互动动画设计。支持完整文章页面、分类/标签导航、访客统计等功能，适合 ACG 主题的博客。 ![](https://badgen.net/github/stars/redhat123456/hexo-theme-MiHoYo)
+
+- **前端页面**
+
+  - [简历](https://github.com/redhat123456/resume)：一个支持中英文切换的响应式个人简历页面模板，适合在线展示和 PDF 导出，结构清晰，设计现代。 ![](https://badgen.net/github/stars/redhat123456/resume)
+
+- **系统集成项目**
+  - [Maple](https://github.com/redhat123456/Maple)：一款轻量级在线 Markdown 编辑器，支持实时预览、LaTeX 数学公式渲染、主题切换及导出功能，适用于科学写作和博客草稿编辑。 ![](https://badgen.net/github/stars/redhat123456/Maple)
+  - [七院创新基地](https://github.com/seven-innovation-base/official-website)：为七院创新基地开发的官方网站系统，包含新闻公告、项目展示、成员简介等模块，并具备后台内容管理功能。 ![](https://badgen.net/github/stars/seven-innovation-base/official-website)
+
+通过 DeepL.com（免费版）翻译
+
 ## 转型科研：意料之外，情理之中
