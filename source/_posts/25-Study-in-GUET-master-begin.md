@@ -177,7 +177,9 @@ categories:
 印斯茅斯小镇游戏界面（地图正上方标出了具体位置信息）
 </div>
 
-后面，我面对程序就越来越游刃有余，先模仿再学习，再做出了很多有趣的前端小 demo ，比如
+渐渐地，我发现自己对编程越来越得心应手。从最初的模仿开始，慢慢理解其中的原理，再到后来能独立创作，这个过程让我收获了不少成就感。我做了很多有趣的前端小项目：一个会实时反应 md 文件的网页，一个把简历展示的网页，还有给社团做的官方网站...每次完成一个小 demo，都能感受到自己的进步。
+
+这些实践经历让我的职业规划越来越清晰。我开始期待毕业后能成为一名专业的前端工程师，用代码构建出既美观又实用的网页。虽然知道"天下第一"这个目标有点夸张，但我确实想在这个领域深耕下去，做出让人眼前一亮的产品。每次看到自己写的页面在浏览器里流畅运行时，那种满足感都让我更加坚定这个选择。
 
 - **微信小程序**
 
@@ -196,6 +198,47 @@ categories:
   - [Maple](https://github.com/redhat123456/Maple)：一款轻量级在线 Markdown 编辑器，支持实时预览、LaTeX 数学公式渲染、主题切换及导出功能，适用于科学写作和博客草稿编辑。 ![](https://badgen.net/github/stars/redhat123456/Maple)
   - [七院创新基地](https://github.com/seven-innovation-base/official-website)：为七院创新基地开发的官方网站系统，包含新闻公告、项目展示、成员简介等模块，并具备后台内容管理功能。 ![](https://badgen.net/github/stars/seven-innovation-base/official-website)
 
-通过 DeepL.com（免费版）翻译
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div>
+    <img src="https://s2.loli.net/2025/08/10/Gnk3cFb91sXdmRv.png" style="max-width:100%;">
+  </div>
+  <div>
+    <img src="https://s2.loli.net/2025/08/10/saLUYKrAyQiIzCc.png" style="max-width:100%;">
+  </div>
+</div>
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+<div>
+    <img src="https://s2.loli.net/2025/08/10/tA3giOl4VaJ7nuU.png" style="max-width:100%;">
+  </div>
+  <div>
+    <img src="https://s2.loli.net/2025/08/10/DoB5XeZfQjwg4TY.png" style="max-width:100%;">
+  </div>
+</div>
+<div align="center">
+本科阶段主要前端web页面作品
+</div>
+
+后来我和张湃队长组队参加了全国大学生数学建模竞赛，经过三个昼夜不眠不休的奋战，我们捧回了国赛一等奖的证书——这个所有数模人梦寐以求的荣誉。可当我回到日常学习中，却发现自己的成绩单上挂满了刺眼的红灯，连学位证都可能拿不到。
+
+那段时间我过得特别矛盾。白天在实验室推导数学模型时思维敏捷，可一坐到教室里就头脑发懵；能在 48 小时内写出完美的算法，却解不出课本上的基础习题。更让我措手不及的是，那段认真经营的感情也在期末季走到了尽头。好像是个反比例函数，我的努力越是趋于无穷，得到的结果却越是趋于 0。
+
+记得交完最后一门补考试卷的那个下午，我独自坐在教学楼的天台上。左手边是数模竞赛的金色证书，右手边是满是补考标记的成绩单。夕阳把这两张纸都染成了血色，就像我撕裂的大学生活——明明在某个领域证明了自己，却要在另一个战场接受失败。那种熟悉的迷茫感又涌了上来，比大一时更让人窒息，是的我又开始迷茫了。
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/10/5EH2Wr8fh1KJNSZ.png" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/10/5EyVdrLqIC4gFpH.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+就这样跌跌撞撞地来到大四，现实开始显露出它锋利的棱角。基地的学长们给了我阿里、华为的内推机会，这些不卡学历的直达面试本应是救命稻草；学校组织的"电信青葵班"也向我抛出橄榄枝，8000 元的月薪对毕业生来说不算差。可我却像中了魔咒般，把每个机会都变成了对自己的嘲讽。
+
+我记得有次线上面试，面对面试官的问题，喉咙像被无形的手扼住——连"盒模型是什么"这样基础的问题都答得支支吾吾。拒绝青葵班的那天，我对着辅导员夸夸其谈"追求技术理想""不接受三班倒"，其实只是害怕离开舒适区。
+
+快毕业的时候，班长签了在老家的银行，"超胜"在深圳签了 8000 的工作，我才惊觉自己早已被现实甩在身后。毕业季的招聘会上，我攥着简历在人群中被推来挤去，耳边不断响起"你这个（简历/专业）不合适"的拒绝声。那些曾经以为触手可及的大厂 offer，此刻都成了镜花水月。
+
+同窗们陆续签下三方协议时，我还在宿舍床上刷着招聘软件。每当他们问起我的去向，我都用"再看看"搪塞过去。幸运的是，
 
 ## 转型科研：意料之外，情理之中
