@@ -266,6 +266,9 @@ categories:
     <img src="https://s2.loli.net/2025/08/10/5EyVdrLqIC4gFpH.jpg" style="max-width:100%;">
   </div>
 </div>
+<div align="center">
+成绩单和高教社杯数模国一证书
+</div>
 
 那段时间我过得特别矛盾。白天在实验室推导数学模型时思维敏捷，可一坐到教室里就头脑发懵；能在 48 小时内写出完美的算法，却解不出课本上的基础习题。更让我措手不及的是，那段认真经营的感情也迅速走到了尽头。好像是个反比例函数，我的努力越是趋于无穷，得到的结果却越是趋于 0。
 
@@ -275,6 +278,9 @@ categories:
 
 ![IMG_20210918_204612.jpg](https://s2.loli.net/2025/08/11/6JV4de97ybhzEqT.jpg)
 
+<div align="center">
+给大一新生面试
+</div>
 招新面试和宣讲会结束后，我独自在空荡荡的基地里坐了许久。夕阳透过窗户把奖状墙照得金灿灿的，那些往届优秀成员拿下的奖状的照片仿佛在无声地质问我：这两年，你到底成长了什么？
 
 就这样跌跌撞撞地来到大四，现实开始显露出它锋利的棱角。基地的学长们给了我阿里、华为的内推机会，这些不卡学历的直达面试本应是救命稻草；学校组织的"电信青葵班"也向我抛出橄榄枝，8000 元的月薪对毕业生来说不算差。可我却像中了魔咒般，把每个机会都变成了对自己的嘲讽。
@@ -317,8 +323,6 @@ categories:
   </div>
 </div>
 
-![IMG_20230707_220908.jpg]()
-
 我把行李搬出了那个我待了四年的宿舍，我搬到了校门口住了下来还给一位朋友庆祝了生日，我开始了在实验室学习读书的日子，偶尔也会去蹭一下本科生的考研复习课，在覃老师的指导下，我已将两篇论文（一篇改编自数模竞赛，一篇与学妹合作）分别发表在《Sensors》和《Soft Computing》上，还发了两篇 EI 会议论文，这本该是科研道路上的亮眼开端，我却陷入了奇怪的状态。每当打开数学分析的教材，手指就会不自觉地颤抖；面对高等代数的习题，明明知道解题思路，大脑却像被按了暂停键。
 
 这两门本该驾轻就熟的课程，现在却成了心理上的大山。我清楚它们并不算难——比起数模竞赛中那些艰深的算法，比起论文修改时那些复杂的推导，考研的数学要求实在不算苛刻。可就是这种"应该会却学不进去"的状态最让人崩溃：在实验室能连续工作 12 小时写代码，却无法静心复习 1 小时的基础理论；能在国际期刊上发表论文，却对考研真题望而生畏。
@@ -355,17 +359,59 @@ categories:
   </div>
 </div>
 
-考研成绩公布那天，我看着屏幕上远低于国家线的分数 258 分，英语（一）：41 分，政治：48 分，高等代数：93 分，数学分析：76 分，终于决定暂时放下执念，去社会上碰碰运气。在投出近百份简历后，南宁一家小型教培机构向我抛来了橄榄枝。试讲那天，尽管熬夜备课到凌晨，我的表现还是磕磕绊绊。好在老板看中了我的数理背景，给了我一个改作业的岗位——每天用手机批改家长群里的作业照片，再附上解题步骤，月薪 1000 元。
+考研成绩揭晓那晚，屏幕上的数字格外刺眼：总分 258 分（英语 41，政治 48，高代 93，数分 76）。这个远低于国家线的成绩，像一盆冰水浇灭了我所有的侥幸。深夜和朋友漫无目的地走在桂林街头，两江四湖的灯火倒映在水面，我突然发现——原来这座生活了四年的城市，美得如此不动声色。
+
+漓江边的喀斯特山峰在月光下如同墨色剪影，正阳步行街的桂花香裹着潮湿的夜风。我们坐在解放桥的栏杆上，看游船划过象鼻山的水影，"我望着远处外面世界的轮廓，第一次真切地意识到：是时候走出这座庇护我四年的象牙塔了。
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/rb5uygDfkXTt6CB.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/1CJl3mU5kAPdWaS.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/1yions7OKZNEVSw.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/rpCVWR3sNuqIOM5.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/3k6feRWv4O57rpL.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/J3KP17ltGN69eb5.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+在投出近百份简历后，南宁一家小型教培机构向我抛来了橄榄枝。试讲那天，尽管熬夜备课到凌晨，我的表现还是磕磕绊绊。好在老板看中了我的数理背景，给了我一个改作业的岗位——每天用手机批改家长群里的作业照片，再附上解题步骤，月薪 1000 元。
 
 我在机构附近租了个月租 500 的隔间，不到十平米的空间刚够放下一张床。为了省钱，我发明了"菜包生存法"：楼下早餐店五毛钱一个的青菜包，既能填饱肚子又能补充维生素，不够就多吃两个。这种清苦的生活意外地让我获得了某种踏实感。
 
 后来校长安排我单独辅导一个初二学生。这孩子原本数学很好，不知怎么突然成绩滑坡。我们约定每晚视频，他随时提问，我即时讲解。起初这种模式很理想，白天我能复习考研数学，晚上辅导两不误。但渐渐地，高强度的工作开始吞噬我的精力——每晚下课后，疲惫像潮水般涌来，只能瘫在床上机械地刷手机，连翻书的力气都没有。
+
+![](https://s2.loli.net/2025/08/11/k5QEmhWdfXznrTj.jpg)
 
 六月的深夜，台灯在桌角投下昏黄的光晕。刚给学生讲完最后一道几何题，我又习惯性地瘫在床上刷起了手机。手指机械地滑动着屏幕，短视频一帧帧闪过，突然某个瞬间，我猛地按下了锁屏键——漆黑的屏幕映出自己麻木的脸。
 
 这一刻的清醒来得猝不及防。我意识到，如果继续用这种透支的状态备战 25 考研，结果只会重蹈覆辙：白天被工作耗尽精力，晚上用垃圾娱乐麻痹自己，日复一日地陷入"明天再努力"的自我欺骗。
 
 收拾行李时，我做了个决定：回家，但必须找个能约束自己的考研集训营。没想到真让我在南宁保税区附近找到了理想的选择——距离玉洞地铁站三公里，既避开了市中心的喧嚣，又不至于太过偏僻。我毫不犹豫地交了 3000 元费用，换来一个八人间的床位和自习室的固定座位。
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/JXjuQRGbidmzcF5.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/b25UI6MWvRV9upZ.jpg" style="max-width:100%;">
+  </div>
+</div>
 
 这个简陋的八人间却成了我的精神避难所。铁架床的嘎吱声、公共卫生间的水流声、自习室此起彼伏的翻书声，这些声音编织成一种奇特的安定感。我们七个考研人形成了精准的生物钟：每晚 22:40 集体撤离自习室，24:00 准时熄灯；清晨 7 点，此起彼伏的闹铃会像接力赛般将所有人唤醒。
 
@@ -385,4 +431,77 @@ categories:
 
 每月末的理发日是我唯一的喘息时刻。我会特意走到玉洞地铁口旁的商场，在理发店的等候区尽情刷手机，看着镜子里推子掠过后逐渐清爽的发型，然后去隔壁点一碗蓝姐螺蛳粉——多加酸笋，少放辣椒。这短短两小时的放纵，就像给紧绷的神经做了一次精准的穴位按摩。
 
-12 月 24 日清晨，我们宿舍五人拖着行李箱站在马路边等车。去西大考场的路上，出租车里安静得能听见翻动笔记的沙沙声。从玉洞到西大的 2 号线地铁仿佛被拉长了时空，每个人都紧攥着复习资料，指尖发白。我偷瞄身旁的室友，发现他正无意识地用笔尖戳着《肖四》的封面——原来这种"复习半年仍觉空虚"的焦虑感，不止我一个人在承受。地铁穿过黑暗的隧道时，车窗倒影里五张紧绷的脸，像一组未完成的雕塑群像。
+12 月 23 日清晨，基本所有人都在把座位上的书本全部拿出来搬回宿舍，这样预示着复习告一段落了，我回到宿舍大家都在收拾行李，我们宿舍五人拖着行李箱站在马路边等车。去西大考场的路上，出租车里安静得能听见翻动笔记的沙沙声。从玉洞到西大的 2 号线地铁仿佛被拉长了时空，每个人都紧攥着复习资料，指尖发白。我偷瞄身旁的室友，发现他正无意识地用笔尖戳着《肖四》的封面——原来这种"复习半年仍觉空虚"的焦虑感，不止我一个人在承受。地铁穿过黑暗的隧道时，车窗倒影里五张紧绷的脸，像一组未完成的雕塑群像。那天晚上我们还参观了考场，顺便在西大校园吃了个晚饭，然后不敢有片刻停留迅速的返回了民宿开始学习，
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/WUTZjKlVHB2uGdi.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/IurisbKFkc5aVwS.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/zVv3kOqjhn9fGm7.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/dxHRycKFZOEqWNu.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/MVQGbOBypASXLf7.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/DPZixANp9yYBdjm.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/m8rYgI5UKeFXWzb.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/nKRH5kxMP4bOGDq.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+第二天一大早我们都起得的很早，因为我没睡着 😭，我还记得跟好兄弟越哥聊天，他跟我说：“今晚别复习那么晚，早点睡，因为会睡不着。”，我那时候听了但是还是复习到了 12 点，害，年轻人主打一个不听劝，没办法，我大概是四点钟才睡着，然后鹏哥过来叫我，我第一次没醒，然后他又叫了一次，我才从床上跳下来，幸好三个人住一个屋里，能互相叫起床。然后爸妈都发了个红包过来，祝我顺顺利利考上，在这里感谢爸妈。
+
+记得当时政治考得很难，肖四押中一题其他的都没押中，为了多点时间看书就坐在湖边吃面包了，下午的英语也很难，回去一打开手机都是在说英语难的，不过当时也不敢想太多，尽心尽力去准备第二天的考试。
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/YG9CzAW31d2jJrX.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/A6VJaHKQEegWuDc.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/VSxWGCXvN64QKP9.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/w5h3VOeP1lsXruD.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/TpW1IakgUYRS2hX.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/VKwgtqxj3iNouWe.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+第二天的高等代数考卷还是给了我当头一棒。前半部分的基础题做得还算顺手，可后面几道证明题就像拦路虎——那些复杂的矩阵变换和抽象空间证明，让我在草稿纸上涂涂改改了半个多小时。好在下午的数学分析意外地简单，三十分钟就答完了全部题目，这种反差让我恍惚间觉得考研就像一场荒诞的赌局。
+
+考完当晚，我拖着行李箱回到宿舍时，正碰上廖哥在床上玩手机。他看我脸色不对，推了推眼镜问："考砸了？"我含糊地回了句"一般"，他忽然笑了："你们这种说'一般'的，就是心里没底。"这句话莫名刺痛了我，我脱口反问："那你考不上怎么办？"
+
+廖哥低下头，他把手机按了锁屏键，把手机丢在一边。他轻声说："那就不考了...都考五年了。"这个桂林理工毕业的老哥，几年前毕业后在广州工厂打工时，那些老师傅总把关键技术藏着掖着。他前四年都是边拧螺丝边复习，直到今年才狠心辞职全职备考。"现在年龄也很大了，再不上也不能再考了。"，我突然意识到：原来每个考研人背后，都藏着一段不愿轻易示人的跋涉。
