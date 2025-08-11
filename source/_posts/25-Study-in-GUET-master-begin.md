@@ -34,11 +34,17 @@ categories:
 
 中考放榜那天，我看着成绩单上化学"A"，数学"B+"，总分"B+"，突然明白了一个道理：在这个靠关系编织的牢笼里，成绩是唯一能靠自己挣来的尊严。在北流市也不算很高分，那一年北流市实验中学招收 1400 名，我的成绩排在 1200 名左右。
 
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/09/LGcBSTm6Wgu1n9l.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1.18;">
+    <img src="https://s2.loli.net/2025/08/11/Flf4BkrLGemWj89.jpg" style="max-width:100%;">
+  </div>
+</div>
+
 <div align="center">
-
-![500B6D4CE87F1A9EB3A0EC4F4C2801C6FAFD64FC_size140_.jpg](https://s2.loli.net/2025/08/09/LGcBSTm6Wgu1n9l.jpg)
-北流市实验中学(来源于网上)
-
+北流实验中学校门和窗户外边
 </div>
 
 在我童年的记忆里，父亲是那样一个高大而睿智的存在。他的眼睛总是炯炯有神，说话时带着新闻人特有的沉稳与洞见，每句话都像经过深思熟虑。我常常仰着头看他，觉得他比电视台 15 楼的窗台还要高大，能一眼看穿这个世界的真相。
