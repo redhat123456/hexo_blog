@@ -419,6 +419,15 @@ categories:
   </div>
 </div>
 
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/8dMi3ur6RPXjc1w.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/Y35Z9vNiThXAupH.jpg" style="max-width:100%;">
+  </div>
+</div>
+
 这个简陋的八人间却成了我的精神避难所。铁架床的嘎吱声、公共卫生间的水流声、自习室此起彼伏的翻书声，这些声音编织成一种奇特的安定感。我们七个考研人形成了精准的生物钟：每晚 22:40 集体撤离自习室，24:00 准时熄灯；清晨 7 点，此起彼伏的闹铃会像接力赛般将所有人唤醒。
 
 我的日常像被设定好的程序：
