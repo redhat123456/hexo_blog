@@ -308,22 +308,54 @@ categories:
   </div>
 </div>
 
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/NyAYeWzdgV1tsvZ.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/HK1LPDXWdtpF6C7.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+![IMG_20230707_220908.jpg]()
+
 我把行李搬出了那个我待了四年的宿舍，我搬到了校门口住了下来还给一位朋友庆祝了生日，我开始了在实验室学习读书的日子，偶尔也会去蹭一下本科生的考研复习课，在覃老师的指导下，我已将两篇论文（一篇改编自数模竞赛，一篇与学妹合作）分别发表在《Sensors》和《Soft Computing》上，还发了两篇 EI 会议论文，这本该是科研道路上的亮眼开端，我却陷入了奇怪的状态。每当打开数学分析的教材，手指就会不自觉地颤抖；面对高等代数的习题，明明知道解题思路，大脑却像被按了暂停键。
 
 这两门本该驾轻就熟的课程，现在却成了心理上的大山。我清楚它们并不算难——比起数模竞赛中那些艰深的算法，比起论文修改时那些复杂的推导，考研的数学要求实在不算苛刻。可就是这种"应该会却学不进去"的状态最让人崩溃：在实验室能连续工作 12 小时写代码，却无法静心复习 1 小时的基础理论；能在国际期刊上发表论文，却对考研真题望而生畏。
 
-| 论文标题                                                                                                     | 论文出处                         | 论文类型     | 发表时间   | 备注                                    |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------- | ------------ | ---------- | --------------------------------------- |
-| A Multi-Layer Classifier Model XR-KS of Human Activity Recognition for the Problem of Similar Human Activity | Sensors                          | 期刊论文     | 2023-11-04 | SCI Q2, IF 3.4, EI 检索, SCU 工程技术 C |
-| Intelligent Design of Street Lamp in Rural Areas Based on an Improved Genetic Algorithm                      | Mathematics and Computer Science | 期刊论文     | 2024-09-29 | 英文普刊                                |
-| 孔隙弹性问题的 Legendre 谱元方法以及其应用                                                                   | 毕业论文                         | 本科学位论文 | 2023-05-26 | 2023 届本科毕业生毕业论文校级一等奖     |
-| CO2 emission forecasting based on nonlinear grey Bernoulli and BP neural network combined model              | Soft Computing                   | 期刊论文     | 2023-08-17 | EI 检索, IF 3.2, SCI Q2, CCF C          |
-| The study of power planning for cyclists based on genetic algorithm                                          | CAMMIC 2023                      | 会议论文     | 2023-07-28 | EI 检索                                 |
-| Analysis of data patterns of interwoven meltblown nonwoven materials based on polynomial fitting             | CAMMIC 2023                      | 会议论文     | 2023-07-28 | EI 检索                                 |
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/QWfuiqFJMGV25wy.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/D9cNKwzr3VL8OiH.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+做科研助理时的学术成果：
+
+| 论文标题                                                                                                     | 论文出处       | 论文类型     | 发表时间   | 备注                                    |
+| ------------------------------------------------------------------------------------------------------------ | -------------- | ------------ | ---------- | --------------------------------------- |
+| A Multi-Layer Classifier Model XR-KS of Human Activity Recognition for the Problem of Similar Human Activity | Sensors        | 期刊论文     | 2023-11-04 | SCI Q2, IF 3.4, EI 检索, SCU 工程技术 C |
+| 孔隙弹性问题的 Legendre 谱元方法以及其应用                                                                   | 毕业论文       | 本科学位论文 | 2023-05-26 | 2023 届本科毕业生毕业论文校级一等奖     |
+| CO2 emission forecasting based on nonlinear grey Bernoulli and BP neural network combined model              | Soft Computing | 期刊论文     | 2023-08-17 | EI 检索, IF 3.2, SCI Q2, CCF C          |
+| The study of power planning for cyclists based on genetic algorithm                                          | CAMMIC 2023    | 会议论文     | 2023-07-28 | EI 检索                                 |
+| Analysis of data patterns of interwoven meltblown nonwoven materials based on polynomial fitting             | CAMMIC 2023    | 会议论文     | 2023-07-28 | EI 检索                                 |
 
 大学四年，我的体重就像脱缰的野马，从入学时的 100 斤出头一路飙升到 144 斤。镜子里的自己顶着黑眼圈，头发凌乱，明明才 23 岁，看起来却像个饱经风霜的中年人。实验室的师弟师妹们朝气蓬勃的样子，更反衬出我的颓废。覃老师好几次欲言又止地看着我，最后只说了一句："搞科研最重要的是心态。"我知道他说得对，可就是打不起精神来。
 
-考研成绩公布那天，我看着屏幕上远低于国家线的分数，终于决定暂时放下执念，去社会上碰碰运气。在投出近百份简历后，南宁一家小型教培机构向我抛来了橄榄枝。试讲那天，尽管熬夜备课到凌晨，我的表现还是磕磕绊绊。好在老板看中了我的数理背景，给了我一个改作业的岗位——每天用手机批改家长群里的作业照片，再附上解题步骤，月薪 1000 元。
+考研的时候，我总感觉没有复习到位，看着桂电的夕阳，看着桂电的马克思雕像，不知道为什么感觉很不好，因为数分没有复习到位，最后也不出所料。
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/UCiv2rHJmIRcpul.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1.85;">
+    <img src="https://s2.loli.net/2025/08/11/oDidjZESAmYV2Qt.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+考研成绩公布那天，我看着屏幕上远低于国家线的分数 258 分，英语（一）：41 分，政治：48 分，高等代数：93 分，数学分析：76 分，终于决定暂时放下执念，去社会上碰碰运气。在投出近百份简历后，南宁一家小型教培机构向我抛来了橄榄枝。试讲那天，尽管熬夜备课到凌晨，我的表现还是磕磕绊绊。好在老板看中了我的数理背景，给了我一个改作业的岗位——每天用手机批改家长群里的作业照片，再附上解题步骤，月薪 1000 元。
 
 我在机构附近租了个月租 500 的隔间，不到十平米的空间刚够放下一张床。为了省钱，我发明了"菜包生存法"：楼下早餐店五毛钱一个的青菜包，既能填饱肚子又能补充维生素，不够就多吃两个。这种清苦的生活意外地让我获得了某种踏实感。
 
