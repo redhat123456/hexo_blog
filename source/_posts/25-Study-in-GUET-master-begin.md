@@ -459,10 +459,19 @@ categories:
 
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
   <div style="flex: 1;">
-    <img src="https://s2.loli.net/2025/08/11/MVQGbOBypASXLf7.jpg" style="max-width:100%;">
+    <img src="https://s2.loli.net/2025/08/11/DPZixANp9yYBdjm.jpg" style="max-width:100%;">
   </div>
   <div style="flex: 1;">
-    <img src="https://s2.loli.net/2025/08/11/DPZixANp9yYBdjm.jpg" style="max-width:100%;">
+    <img src="https://s2.loli.net/2025/08/11/ETQALi9BRgjFaH4.jpg" style="max-width:100%;">
+  </div>
+</div>
+
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/9ZhQSpFB4CzxHNn.jpg" style="max-width:100%;">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://s2.loli.net/2025/08/11/pjZnhacPsNVkmr3.jpg" style="max-width:100%;">
   </div>
 </div>
 
