@@ -569,7 +569,7 @@ categories:
     <img src="https://s2.loli.net/2025/08/11/ShG21bBtzR574nX.jpg" style="max-width:100%;">
   </div>
   <div style="flex: 1;">
-    <img src="https://s2.loli.net/2025/08/11/ShG21bBtzR574nX.jpg" style="max-width:100%;">
+    <img src="https://s2.loli.net/2025/08/28/YbKD6mR9VN4Pfrg.jpg" style="max-width:100%;">
   </div>
 </div>
 
